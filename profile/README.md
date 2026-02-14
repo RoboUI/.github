@@ -26,7 +26,6 @@
 |------|-------------|--------|
 | **[roboui-ios](https://github.com/RoboUI/roboui-ios)** | Swift SDK — SwiftUI components for ROS2 | ✅ Alpha |
 | **[roboui-android](https://github.com/RoboUI/roboui-android)** | Kotlin SDK — Compose components for ROS2 | 🗓️ Coming soon |
-| **[roboui.dev](https://github.com/RoboUI/roboui.dev)** | Landing page | 🌐 Live |
 
 ### 🚀 Quick Start (iOS)
 
