@@ -35,7 +35,7 @@ import RoboUI
 let connection = RosbridgeConnection(url: URL(string: "ws://robot.local:9090")!)
 connection.connect()
 
-// That's it. Now use JoystickView, LaserScanView, TwistPublisher...
+// Drop in components: JoystickView, CameraView, LaserScanView...
 ```
 
 ### 🤝 Get Involved
